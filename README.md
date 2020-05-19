@@ -5,5 +5,8 @@ Los cambios que le hice fue cambiar las x subíndice algo por variables ABCD (so
 como quedaban después de 4) y hacerlo un poco más amistoso a la vista. Cambié un poco de css y algo de lo que se quejaba el IDE.
 No es mucha mi contribución la verdad.
 
+# Link
+https://eduardosalaz.github.io/KMap/
+
 # Original
 https://www.mathematik.uni-marburg.de/~thormae/lectures/ti1/code/karnaughmap/ 
